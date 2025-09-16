@@ -14,28 +14,28 @@ Sistem Manajemen Aset berbasis web yang dirancang untuk mendukung perencanaan, a
 > Berikut beberapa cuplikan tampilan sistem:
 
 ### 🔑 Landing Page
-![Landing Page](docs/Landing%20Page.gif)
+![Landing Page](docs/LandingPage.gif)
 
 ### 📊 Dashboard Admin
 ![Admin Dashboard](docs/Admin%20Dashboard.gif)
 
 ### 📝 Form Pengaduan
-![Form Pengaduan](docs/Form%20Pengaduan.gif)
+![Form Pengaduan](docs/FormPengaduan.gif)
 
 ### 🛒 Akuisisi Aset
-![Akuisisi Aset](docs/Akuisisi%20Aset.gif)
+![Akuisisi Aset](docs/Akuisisi.gif)
 
 ### 🗂 Rencana Aset
-![Rencana Aset](docs/Rencana%20Aset.gif)
+![Rencana Aset](docs/Rencana.gif)
 
 ### 🏷 Penggunaan Aset
-![Penggunaan Aset](docs/Penggunaan%20Aset.gif)
+![Penggunaan Aset](docs/Penggunaan.gif)
 
 ### 📅 Kalender Pemeliharaan
-![Kalender Manajemen Aset](docs/Kalender%20Manajemen%20Aset.png)
+![Kalender Manajemen Aset](docs/Kalender.png)
 
 ### 🕘 Riwayat Pengaduan
-![Riwayat Pengaduan](docs/Riwayat%20Pengaduan.png)
+![Riwayat Pengaduan](docs/Riwayat.png)
 
 ---
 
